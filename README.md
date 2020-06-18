@@ -3,11 +3,11 @@ Adds higher level enchantments to your server!
 Use instructions
 
 Crafting the Item:
-
-d b d <br>
-g s g -> E <br>
+```
+d b d 
+g s g -> E 
 d t d
-
+```
 d = Diamond Block
 g = Enchanted Golden Apple - NOTE: The plugin also adds the crafting recipie for the Enchanted Golden Apple
 s = Nether Star
