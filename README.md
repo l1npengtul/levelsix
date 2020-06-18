@@ -4,10 +4,8 @@ Use instructions
 
 Crafting the Item:
 
-d b d 
-
-g s g -> E 
-
+d b d \n
+g s g -> E \n
 d t d
 
 d = Diamond Block
