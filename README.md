@@ -19,3 +19,5 @@ E = Expert's Star(with random level 6 enchant)
 Then, hold the Expert's star in your main hand with the item to enchant in your off-hand then right click
 
 NOTE: Shift-click crafting is currently **broken**. It will produce broken stars with no enchantments.
+
+Spigot: https://www.spigotmc.org/resources/levelsixench.80354/
