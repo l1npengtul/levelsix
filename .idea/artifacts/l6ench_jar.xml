@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="l6ench:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/l6ench_jar</output-path>
-    <root id="archive" name="l6ench.jar">
-      <element id="module-output" name="l6ench" />
-    </root>
-  </artifact>
-</component>
